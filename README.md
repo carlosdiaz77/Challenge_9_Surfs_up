@@ -42,12 +42,9 @@ Using Python, Pandas functions and methods, and SQLAlchemy, I filtered the date 
 
 I made two boxplots using the average tempetture of each day and we can see the image below.
 
-<img src =  "Resources/summary.png" width= "650" >
+<img src =  "resources/summary.png" width= "650" >
 
 
--	this means that the difference between the min and max are nore noticiable than in June.
--	
--	This company needs to hire about 18,000 employes per year for the next 5 years.
 
 <img src =  "Resources/summary.png" width= "650" >
 	
