@@ -39,9 +39,15 @@ Using Python, Pandas functions and methods, and SQLAlchemy, I filtered the date 
 
 ### Summary:  The three key differences in weather between June and December:
 	
-### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
--	As we can see in the table below,  in the next 5 years  90 thousand employees will have to retire. 
+
+I made two boxplots using the average tempetture of each day and we can see the image below.
+
+<img src =  "Resources/summary.png" width= "650" >
+
+
+-	this means that the difference between the min and max are nore noticiable than in June.
+-	
 -	This company needs to hire about 18,000 employes per year for the next 5 years.
 
-<img src =  "Resources/group_birth_date.png" width= "650" >
+<img src =  "Resources/summary.png" width= "650" >
 	
