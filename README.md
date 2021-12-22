@@ -11,7 +11,7 @@ The project  was based on data of about  19,550 records in 9 weather stations in
 The main objective of the analysis was to determine the weather trends in two specific months, June and December.
 Below we can see a sample of the data in SQLite
  
-<img src = "resources/sqlite.png" width= "650" > 
+<img src = "resources/SQLite.png" width= "650" > 
  
 
 
