@@ -20,7 +20,7 @@ Below we can see a sample of the data in SQLite
 ### Deliverable 1: Determine the Summary Statistics for June
 
 
-<img src = "resources/june.png" width= "650" >
+<img src = "resources/june2.png" width= "650" >
 
 
 Using Python, Pandas functions and methods, and SQLAlchemy, I filtered the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of June. I then converted those temperatures to a list, created a DataFrame from the list, and generated the summary statistics. See image above.
@@ -30,7 +30,7 @@ Using Python, Pandas functions and methods, and SQLAlchemy, I filtered the date 
 ### Deliverable 2 : Determine the Summary Statistics for December
 
 
-<img src =  "resources/dec.png" width= "650" >
+<img src =  "resources/dec2.png" width= "650" >
 
 Using Python, Pandas functions and methods, and SQLAlchemy, I filtered the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of December. I then converted those temperatures to a list, created a DataFrame from the list, and generated the summary statistics. See image above.
 
