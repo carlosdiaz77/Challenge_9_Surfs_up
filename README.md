@@ -44,7 +44,7 @@ I made two boxplots using the average temperature of each day and we can see the
 
 <img src =  "resources/summary2.png" width= "650" >
 
-in the image below we can see the key differences in weather between June and December:
+In the image below we can see the three key differences in weather between June and December:
 
 <img src =  "resources/comp.png" width= "650" >
 	
