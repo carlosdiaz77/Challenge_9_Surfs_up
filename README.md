@@ -42,7 +42,7 @@ Using Python, Pandas functions and methods, and SQLAlchemy, I filtered the date 
 
 I made two boxplots using the average temperature of each day and we can see the image below.
 
-<img src =  "resources/summary.png" width= "650" >
+<img src =  "resources/summary2.png" width= "650" >
 
 in the image below we can see the key differences in weather between June and December:
 
